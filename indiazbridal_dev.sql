@@ -1,5 +1,5 @@
 CREATE DATABASE  IF NOT EXISTS `indiazbridal_dev` /*!40100 DEFAULT CHARACTER SET utf8 */;
-USE `indiazbridal_dev`;
+USE `indiazBridal_dev`;
 -- MySQL dump 10.13  Distrib 5.7.12, for Win64 (x86_64)
 --
 -- Host: localhost    Database: indiazbridal_dev
